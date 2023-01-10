@@ -1,4 +1,4 @@
 # strokePrediction
-Predicting stroke for patients using R
-Install caret for support vector machine algorithm
-Install tidyverse for EDA 
+1. Predicting stroke for patients using R
+2. Install caret for support vector machine algorithm
+3. Install tidyverse for EDA 
